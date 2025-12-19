@@ -1,0 +1,1 @@
+<span style=color:purple>朝夕沫娅</span>(id:2038509)在事件{add_money}失去了10000个金币，剩11719数量

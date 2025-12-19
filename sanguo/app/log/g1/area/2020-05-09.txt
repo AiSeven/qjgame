@@ -1,0 +1,23 @@
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}获得了200块<span style=color:purple>【升星石】</span>(i287),剩5600数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_money}获得了100000个金币，剩100051数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}获得了100个<span style=color:orange>元宝</span>(i1),剩61430数量
+苟富贵(id:2038420)在事件{add_item}获得了200块<span style=color:purple>【升星石】</span>(i287),剩600数量
+苟富贵(id:2038420)在事件{add_money}获得了100000个金币，剩899998数量
+苟富贵(id:2038420)在事件{add_item}获得了100个<span style=color:orange>元宝</span>(i1),剩100数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_money}获得了2个金币，剩100052数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_money}失去了100000个金币，剩52数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_money}获得了100000个金币，剩100052数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}获得了100个<span style=color:orange>元宝</span>(i1),剩61530数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_money}获得了100000个金币，剩200052数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}获得了100个<span style=color:orange>元宝</span>(i1),剩61630数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}失去了700个<span style=color:orange>元宝</span>(i1),剩60930数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}获得了10卷<span style=color:green>【BOSS传送卷】</span>(i214),剩10数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}失去了1卷<span style=color:green>【BOSS传送卷】</span>(i214),剩9数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}获得了117个<span style=color:#D9B300>金币</span>(i51),剩117数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}失去了117个<span style=color:#D9B300>金币</span>(i51),剩0数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}失去了1卷<span style=color:green>【BOSS传送卷】</span>(i214),剩8数量
+<span style=color:purple>冒泡啊</span>(id:2038392)创建了1把<span style=color:green>【卓越之戒(法)】 </span>
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}获得了117个<span style=color:#D9B300>金币</span>(i51),剩117数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}失去了117个<span style=color:#D9B300>金币</span>(i51),剩0数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}失去了1卷<span style=color:green>【BOSS传送卷】</span>(i214),剩7数量
+<span style=color:purple>冒泡啊</span>(id:2038392)创建了1把<span style=color:green>【卓越之腕(战)】</span>

@@ -1,0 +1,2 @@
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_money}获得了100000个金币，剩700286数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}获得了100个<span style=color:orange>元宝</span>(i1),剩71030数量

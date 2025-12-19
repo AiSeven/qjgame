@@ -1,0 +1,29 @@
+<span style=color:purple>星辰</span>(id:2038473)在事件{add_item}失去了1卷<span style=color:#C6A300>【任务传送卷】</span>(i45),剩31数量
+<span style=color:purple>星辰</span>(id:2038473)在事件{add_item}获得了1个<span style=color:orange>元宝</span>(i1),剩2455021数量
+<span style=color:purple>星辰</span>(id:2038473)在事件{add_money}获得了100个金币，剩29982562数量
+<span style=color:purple>星辰</span>(id:2038473)在北辰小屋事件{e100}获得了1把(极) 
+<style>
+/* 定义金色渐变+闪烁关键帧 */
+@keyframes goldFlash {
+  0% { 
+    color: #DAA520; /* 初始金色 */
+    text-shadow: 0 0 5px #FFD700; /* 金色光晕 */
+  }
+  50% { 
+    color: #FFD700; /* 高亮金色 */
+    text-shadow: 0 0 15px #FFD700, 0 0 30px #FFD700; /* 强化光晕 */
+  }
+  100% { 
+    color: #DAA520; 
+    text-shadow: 0 0 5px #FFD700; 
+  }
+}
+
+.dynamic-text {
+  font-size: 24px;
+  font-weight: bold;
+  animation: goldFlash 1.5s infinite; /* 1.5秒循环动画 */
+}
+</style>
+
+<span class="dynamic-text"></span>

@@ -1,0 +1,40 @@
+{
+  "88": [
+    {
+      "id": "1",
+      "name": "圣凶",
+      "query_sql_condition": "AND (`is_shengshou`=1 OR `is_xiongshou`=1)",
+      "gailv": "0.005"
+    },
+    {
+      "id": "2",
+      "name": "五神",
+      "query_sql_condition": "AND `is_wushen`=1",
+      "gailv": "0.005"
+    },
+    {
+      "id": "3",
+      "name": "山海经",
+      "query_sql_condition": "AND `is_shanhaijing`=1",
+      "gailv": "0.040"
+    },
+    {
+      "id": "4",
+      "name": "合成",
+      "query_sql_condition": "AND `is_hechengchongwu`=1 AND `is_wushen`=0 AND `is_shanhaijing`=0",
+      "gailv": "0.250"
+    },
+    {
+      "id": "5",
+      "name": "新型",
+      "query_sql_condition": "AND `is_xinchong`=1 AND `is_hechengchongwu`=0 AND `is_wushen`=0 AND `is_shanhaijing`=0",
+      "gailv": "0.200"
+    },
+    {
+      "id": "6",
+      "name": "高级",
+      "query_sql_condition": "AND `is_shengshou`=0 AND `is_xiongshou`=0 AND `is_xinchong`=0 AND `is_hechengchongwu`=0 AND `is_wushen`=0 AND `is_shanhaijing`=0",
+      "gailv": "0.500"
+    }
+  ]
+}

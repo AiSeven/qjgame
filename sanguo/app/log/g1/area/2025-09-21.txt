@@ -1,0 +1,20 @@
+潇然(id:2038504)在事件{add_item}获得了999卷技能秘籍卷(i46),剩999数量
+潇然(id:2038504)在事件{add_money}获得了20个金币，剩30数量
+潇然(id:2038504)在事件{add_item}获得了5000个<span style=color:orange>元宝</span>(i1),剩5000数量
+潇然(id:2038504)在事件{add_money}获得了100个金币，剩130数量
+<span style=color:purple>星辰</span>(id:2038473)在事件{add_item}失去了140个<span style=color:orange>元宝</span>(i1),剩2454881数量
+<span style=color:purple>星辰</span>(id:2038473)在事件{add_item}获得了1本<span style=color:orange>【召唤神兽（战士）】</span>(i226),剩1数量
+<span style=color:purple>星辰</span>(id:2038473)在事件{add_item}失去了1本<span style=color:orange>【召唤神兽（战士）】</span>(i226),剩0数量
+<span style=color:purple>星辰</span>(id:2038473)在事件{add_item}失去了140个<span style=color:orange>元宝</span>(i1),剩2454741数量
+<span style=color:purple>星辰</span>(id:2038473)在事件{add_item}获得了1本<span style=color:orange>【武力盾】</span>(i227),剩1数量
+<span style=color:purple>星辰</span>(id:2038473)在事件{add_item}失去了1本<span style=color:orange>【武力盾】</span>(i227),剩0数量
+老梁航(id:2038506)创建了1件新手布衣（男）
+老梁航(id:2038506)创建了1把木剑
+老梁航(id:2038506)创建了1把GM新手剑
+老梁航(id:2038506)创建了1双GM新手鞋
+老梁航(id:2038506)创建了1双GM新手套
+老梁航(id:2038506)创建了1双 GM新手套
+老梁航(id:2038506)创建了1件GM新手衣
+老梁航(id:2038506)创建了1件GM新手腰饰
+老梁航(id:2038506)在事件{add_item}获得了2张<span style=color:red>【ST会员体验卡】</span>(i283),剩2数量
+老梁航(id:2038506)在事件{add_item}获得了1000个<span style=color:purple>元宝卷</span>(i199),剩1000数量

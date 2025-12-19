@@ -1,0 +1,33 @@
+梦回(id:2038471)创建了1件新手布衣（男）
+梦回(id:2038471)创建了1把木剑
+梦回(id:2038471)创建了1把GM新手剑
+梦回(id:2038471)创建了1双GM新手鞋
+梦回(id:2038471)创建了1双GM新手套
+梦回(id:2038471)创建了1双 GM新手套
+梦回(id:2038471)创建了1件GM新手衣
+梦回(id:2038471)创建了1件GM新手腰饰
+梦回(id:2038471)在事件{add_item}获得了2张<span style=color:red>【ST会员体验卡】</span>(i283),剩2数量
+梦回(id:2038471)在事件{add_item}获得了1000个<span style=color:purple>元宝卷</span>(i199),剩1000数量
+梦回(id:2038471)在事件{add_item}获得了10瓶<span style=color:#C6A300>【装备修复油】</span>(i73),剩10数量
+梦回(id:2038471)在事件{add_money}获得了500个金币，剩510数量
+入梦(id:2038471)创建了1件新手布衣（男）
+入梦(id:2038471)创建了1把木剑
+入梦(id:2038471)创建了1把GM新手剑
+入梦(id:2038471)创建了1双GM新手鞋
+入梦(id:2038471)创建了1双GM新手套
+入梦(id:2038471)创建了1双 GM新手套
+入梦(id:2038471)创建了1件GM新手衣
+入梦(id:2038471)创建了1件GM新手腰饰
+入梦(id:2038471)在事件{add_item}获得了2张<span style=color:red>【ST会员体验卡】</span>(i283),剩2数量
+入梦(id:2038471)在事件{add_item}获得了1000个<span style=color:purple>元宝卷</span>(i199),剩1000数量
+入梦(id:2038471)在事件{add_item}失去了1张<span style=color:red>【ST会员体验卡】</span>(i283),剩1数量
+<span style=color:red>入梦</span>(id:2038471)在事件{add_item}获得了1卷<span style=color:red>【2倍经验卷】</span>(i115),剩1数量
+<span style=color:red>入梦</span>(id:2038471)在事件{add_item}获得了1卷<span style=color:red>【2倍掉宝卷】</span>(i120),剩1数量
+<span style=color:red>入梦</span>(id:2038471)在事件{add_item}获得了1个<span style=color:orange>【补天（一）】</span>(i170),剩1数量
+<span style=color:red>入梦</span>(id:2038471)在事件{add_item}获得了1块<span style=color:green>【强化石（一）】</span>(i185),剩1数量
+<span style=color:red>入梦</span>(id:2038471)在事件{add_item}获得了1000个<span style=color:#D9B300>金币</span>(i51),剩1000数量
+<span style=color:red>入梦</span>(id:2038471)在事件{add_item}获得了1个<span style=color:green>1W 经验卷</span>(i201),剩1数量
+<span style=color:red>入梦</span>(id:2038471)在事件{add_item}失去了1000个<span style=color:#D9B300>金币</span>(i51),剩0数量
+<span style=color:red>入梦</span>(id:2038471)在事件{add_item}获得了1卷<span style=color:green>奖券(金币)</span>(i297),剩1数量
+<span style=color:red>入梦</span>(id:2038471)在事件{add_money}失去了100个金币，剩910数量
+<span style=color:red>入梦</span>(id:2038471)在事件{add_money}获得了20个金币，剩530数量

@@ -1,0 +1,18 @@
+斩龙(id:2038497)创建了1件新手布衣（男）
+斩龙(id:2038497)创建了1把木剑
+斩龙(id:2038497)创建了1把GM新手剑
+斩龙(id:2038497)创建了1双GM新手鞋
+斩龙(id:2038497)创建了1双GM新手套
+斩龙(id:2038497)创建了1双 GM新手套
+斩龙(id:2038497)创建了1件GM新手衣
+斩龙(id:2038497)创建了1件GM新手腰饰
+斩龙(id:2038497)在事件{add_item}获得了2张<span style=color:red>【ST会员体验卡】</span>(i283),剩2数量
+斩龙(id:2038497)在事件{add_item}获得了1000个<span style=color:purple>元宝卷</span>(i199),剩1000数量
+<span style=color:purple>星辰</span>(id:2038473)在事件{add_item}获得了1个<span style=color:green>困惑殿堂传送卷</span>(i266),剩1数量
+斩龙(id:2038497)在事件{add_item}失去了1张<span style=color:red>【ST会员体验卡】</span>(i283),剩1数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了1卷<span style=color:green>【贵宾副本卷】</span>(i405),剩1数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了500个金币，剩10120552562数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了3896个<span style=color:#D9B300>金币</span>(i51),剩3896数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}失去了3896个<span style=color:#D9B300>金币</span>(i51),剩0数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了5个金币，剩10120556463数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了140个金币，剩10120556603数量

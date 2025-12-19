@@ -1,0 +1,1 @@
+<span style=color:purple>星辰</span>(id:2038473)在事件{add_item}失去了1卷<span style=color:#C6A300>【任务传送卷】</span>(i45),剩30数量

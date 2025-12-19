@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>立即清理游戏物品</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #f5f5f5; margin: 0; padding: 20px; text-align: center; }
+        .box { max-width: 500px; margin: 50px auto; background: white; padding: 40px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        h1 { color: #333; margin-bottom: 20px; }
+        .method { margin: 30px 0; padding: 20px; border: 1px solid #ddd; border-radius: 5px; }
+        .btn { background: #007bff; color: white; border: none; padding: 15px 30px; font-size: 16px; border-radius: 5px; cursor: pointer; text-decoration: none; display: inline-block; margin: 10px; }
+        .btn:hover { background: #0056b3; }
+        .btn-green { background: #28a745; }
+        .btn-red { background: #dc3545; }
+        .sql-box { background: #f8f9fa; padding: 15px; border-radius: 5px; text-align: left; font-family: monospace; font-size: 14px; margin: 10px 0; }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h1>🛠️ 游戏物品清理方案</h1>
+        
+        <div class="method">
+            <h3>🔥 方法一：一键清理（推荐）</h3>
+            <p>直接访问清理页面，点击清理按钮</p>
+            <a href="qingli.php" class="btn">立即清理</a>
+            <a href="qingli.php?clean=1" class="btn btn-red">强制清理</a>
+        </div>
+        
+        <div class="method">
+            <h3>📋 方法二：SQL清理（100%有效）</h3>
+            <p>在phpMyAdmin中执行以下SQL：</p>
+            <div class="sql-box">
+DELETE FROM game_prop WHERE map_id > 0 AND time < DATE_SUB(NOW(), INTERVAL 30 MINUTE);
+DELETE FROM game_value WHERE valuename LIKE 'map.%i.%' AND time < DATE_SUB(NOW(), INTERVAL 30 MINUTE);
+            </div>
+            <a href="http://localhost/phpmyadmin" class="btn btn-green" target="_blank">打开phpMyAdmin</a>
+        </div>
+        
+        <div class="method">
+            <h3>⚡ 方法三：文件清理</h3>
+            <p>使用清理文件执行SQL</p>
+            <a href="一键清理.sql" class="btn">下载清理文件</a>
+        </div>
+        
+        <div style="margin-top: 30px; padding: 20px; background: #fff3cd; border-radius: 5px;">
+            <strong>💡 清理完成后：</strong><br>
+            1. 重新进入游戏<br>
+            2. 测试加载速度<br>
+            3. 如有问题请反馈
+        </div>
+    </div>
+</body>
+</html>

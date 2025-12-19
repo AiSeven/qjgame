@@ -1,0 +1,8 @@
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了16000个<span style=color:orange>元宝</span>(i1),剩20937数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{兑换码充值}1000元
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了16000个<span style=color:orange>元宝</span>(i1),剩36937数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{兑换码充值}1000元
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:#C6A300>【任务传送卷】</span>(i45),剩995数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:#C6A300>【任务传送卷】</span>(i45),剩994数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_money}获得了50个金币，剩9004130数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1本基本剑术(i21),剩3数量

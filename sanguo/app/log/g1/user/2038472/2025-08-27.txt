@@ -1,0 +1,31 @@
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:#C6A300>【任务传送卷】</span>(i45),剩998数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:#C6A300>【任务传送卷】</span>(i45),剩997数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了999卷技能秘籍卷(i46),剩999数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_money}获得了20个金币，剩9004260数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1本基本剑术(i21),剩0数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷技能秘籍卷(i46),剩998数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了100个<span style=color:orange>元宝</span>(i1),剩224734数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了200个<span style=color:orange>元宝</span>(i1),剩224534数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩39数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩38数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩37数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩36数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩35数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩34数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩33数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩32数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩31数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩30数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩29数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩28数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩27数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩26数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩25数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩24数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩23数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩22数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩21数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩20数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷<span style=color:green>奖券(元宝)</span>(i298),剩19数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷技能秘籍卷(i46),剩997数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷技能秘籍卷(i46),剩996数量

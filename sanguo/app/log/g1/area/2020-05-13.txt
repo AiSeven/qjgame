@@ -1,0 +1,24 @@
+<span style=color:red>冒泡</span>(id:1922)在事件{add_money}获得了100000个金币，剩7206910数量
+<span style=color:red>冒泡</span>(id:1922)在事件{add_item}获得了100个<span style=color:orange>元宝</span>(i1),剩228数量
+<span style=color:green>在</span>(id:2402)在事件{add_money}获得了100000个金币，剩18735442数量
+<span style=color:green>在</span>(id:2402)在事件{add_item}获得了100个<span style=color:orange>元宝</span>(i1),剩51198017.6数量
+冒泡(id:1922)创建了1件新手布衣（男）
+冒泡(id:1922)创建了1把木剑
+冒泡(id:1922)创建了1把GM新手剑
+冒泡(id:1922)创建了1双GM新手鞋
+冒泡(id:1922)创建了1双GM新手套
+冒泡(id:1922)创建了1双 GM新手套
+冒泡(id:1922)创建了1件GM新手衣
+冒泡(id:1922)创建了1件GM新手腰饰
+冒泡(id:1922)在事件{add_item}获得了2张<span style=color:red>【冒泡会员体验卡】</span>(i283),剩2数量
+冒泡(id:1922)在事件{add_item}获得了1000个<span style=color:purple>元宝卷</span>(i199),剩1000数量
+冒泡传奇(id:2402)创建了1件新手布衣（女）
+冒泡传奇(id:2402)创建了1把木剑
+冒泡传奇(id:2402)创建了1把GM新手剑
+冒泡传奇(id:2402)创建了1双GM新手鞋
+冒泡传奇(id:2402)创建了1双GM新手套
+冒泡传奇(id:2402)创建了1双 GM新手套
+冒泡传奇(id:2402)创建了1件GM新手衣
+冒泡传奇(id:2402)创建了1件GM新手腰饰
+冒泡传奇(id:2402)在事件{add_item}获得了2张<span style=color:red>【冒泡会员体验卡】</span>(i283),剩2数量
+冒泡传奇(id:2402)在事件{add_item}获得了1000个<span style=color:purple>元宝卷</span>(i199),剩1000数量

@@ -1,0 +1,6 @@
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了1卷<span style=color:green>【贵宾副本卷】</span>(i405),剩1数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了500个金币，剩10120552562数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了3896个<span style=color:#D9B300>金币</span>(i51),剩3896数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}失去了3896个<span style=color:#D9B300>金币</span>(i51),剩0数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了5个金币，剩10120556463数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了140个金币，剩10120556603数量

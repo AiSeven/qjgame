@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>自动物品清理</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            text-align: center;
+            max-width: 400px;
+            width: 100%;
+        }
+        .icon {
+            font-size: 60px;
+            margin-bottom: 20px;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 24px;
+        }
+        .status {
+            font-size: 16px;
+            color: #666;
+            margin: 20px 0;
+            line-height: 1.6;
+        }
+        .progress {
+            width: 100%;
+            height: 4px;
+            background: #f0f0f0;
+            border-radius: 2px;
+            overflow: hidden;
+            margin: 20px 0;
+        }
+        .progress-bar {
+            height: 100%;
+            background: linear-gradient(90deg, #667eea, #764ba2);
+            width: 0%;
+            transition: width 0.3s ease;
+        }
+        .result {
+            font-size: 18px;
+            font-weight: bold;
+            margin: 20px 0;
+        }
+        .success {
+            color: #28a745;
+        }
+        .error {
+            color: #dc3545;
+        }
+        .info {
+            color: #007bff;
+        }
+        .restart-btn {
+            background: #28a745;
+            color: white;
+            border: none;
+            padding: 12px 30px;
+            font-size: 16px;
+            border-radius: 25px;
+            cursor: pointer;
+            margin: 10px;
+            transition: all 0.3s ease;
+            display: none;
+        }
+        .restart-btn:hover {
+            background: #218838;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(40,167,69,0.3);
+        }
+        .tips {
+            font-size: 14px;
+            color: #888;
+            margin-top: 20px;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="icon">🗑️</div>
+        <h1>游戏物品自动清理</h1>
+        <div class="status" id="status">正在检测地面物品数量...</div>
+        <div class="progress">
+            <div class="progress-bar" id="progressBar"></div>
+        </div>
+        <div class="result" id="result"></div>
+        <button class="restart-btn" id="restartBtn" onclick="location.reload()">重新清理</button>
+        <button class="restart-btn" id="gameBtn" onclick="window.open('index.php', '_blank')">进入游戏</button>
+        
+        <div class="tips">
+            💡 清理完成后，请重新进入游戏<br>
+            🔄 页面会自动刷新显示结果
+        </div>
+    </div>
+
+    <script>
+        // 自动执行清理
+        async function autoCleanup() {
+            const statusEl = document.getElementById('status');
+            const resultEl = document.getElementById('result');
+            const progressBar = document.getElementById('progressBar');
+            const restartBtn = document.getElementById('restartBtn');
+            const gameBtn = document.getElementById('gameBtn');
+            
+            try {
+                // 步骤1：检测物品数量
+                statusEl.textContent = '正在检测地面物品数量...';
+                progressBar.style.width = '25%';
+                
+                const countResponse = await fetch('qingli.php?action=count');
+                const countData = await countResponse.json();
+                
+                if (countData.count === 0) {
+                    statusEl.textContent = '✅ 地面很干净，无需清理';
+                    progressBar.style.width = '100%';
+                    resultEl.innerHTML = '<span class="success">地面没有需要清理的物品</span>';
+                    restartBtn.style.display = 'inline-block';
+                    gameBtn.style.display = 'inline-block';
+                    return;
+                }
+                
+                statusEl.textContent = `检测到 ${countData.count} 个地面物品，正在清理...`;
+                progressBar.style.width = '50%';
+                
+                // 步骤2：执行清理
+                await new Promise(resolve => setTimeout(resolve, 1000));
+                
+                const cleanupResponse = await fetch('qingli.php', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/x-www-form-urlencoded',
+                    },
+                    body: 'action=cleanup'
+                });
+                const cleanupResult = await cleanupResponse.text();
+                
+                progressBar.style.width = '100%';
+                
+                // 显示结果
+                if (cleanupResult.includes('完成')) {
+                    statusEl.textContent = '✅ 清理完成！';
+                    resultEl.innerHTML = `<span class="success">${cleanupResult}</span>`;
+                } else {
+                    statusEl.textContent = '❌ 清理失败';
+                    resultEl.innerHTML = '<span class="error">清理过程中出现问题，请重试</span>';
+                }
+                
+                restartBtn.style.display = 'inline-block';
+                gameBtn.style.display = 'inline-block';
+                
+            } catch (error) {
+                statusEl.textContent = '❌ 连接失败';
+                resultEl.innerHTML = '<span class="error">无法连接到服务器，请检查网络连接</span>';
+                restartBtn.style.display = 'inline-block';
+            }
+        }
+        
+        // 页面加载完成后自动执行
+        window.addEventListener('load', () => {
+            setTimeout(autoCleanup, 1000);
+        });
+    </script>
+</body>
+</html>

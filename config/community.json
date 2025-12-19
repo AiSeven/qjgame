@@ -1,0 +1,12 @@
+{
+  "mp": {
+    "id": 2,
+    "name": "仙盟会游戏",
+    "url": "https://qm.qq.com/q/RF2pLliagq",
+    "game": {
+      "142": "17039ba32c66d0487bad88768d43a60b"
+    },
+    "key": "17039ba32c66d0487bad88768d43a60b",
+    "hash": "md5(\"{$user}_{$time}_{$community_game_key}\")"
+  }
+}

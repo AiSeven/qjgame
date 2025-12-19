@@ -1,0 +1,5 @@
+冒泡(id:1922)在事件{add_item}失去了100个<span style=color:orange>元宝</span>(i1),剩28数量
+冒泡(id:1922)在事件{add_item}获得了1张<span style=color:red>【冒泡会员周卡】</span>(i130),剩1数量
+冒泡(id:1922)在事件{add_item}失去了1张<span style=color:red>【冒泡会员周卡】</span>(i130),剩0数量
+<span style=color:red>冒泡</span>(id:1922)在事件{add_money}获得了100000个金币，剩7106910数量
+<span style=color:red>冒泡</span>(id:1922)在事件{add_item}获得了100个<span style=color:orange>元宝</span>(i1),剩128数量

@@ -1,0 +1,13 @@
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了1个<span style=color:orange>元宝</span>(i1),剩918071数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了20个金币，剩10120577613数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了50个金币，剩10120577663数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了1卷技能秘籍卷(i46),剩211数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了50个金币，剩10120577713数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}失去了1卷技能秘籍卷(i46),剩210数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了1本基本剑术(i21),剩1数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}失去了1本基本剑术(i21),剩0数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了5296个<span style=color:#D9B300>金币</span>(i51),剩5296数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}失去了5296个<span style=color:#D9B300>金币</span>(i51),剩0数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}失去了1卷技能秘籍卷(i46),剩209数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了1本基本剑术(i21),剩1数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}失去了1本基本剑术(i21),剩0数量

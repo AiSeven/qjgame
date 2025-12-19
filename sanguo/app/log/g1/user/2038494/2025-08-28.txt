@@ -1,0 +1,20 @@
+测(id:2038494)创建了1件新手布衣（女）
+测(id:2038494)创建了1把木剑
+测(id:2038494)创建了1把GM新手剑
+测(id:2038494)创建了1双GM新手鞋
+测(id:2038494)创建了1双GM新手套
+测(id:2038494)创建了1双 GM新手套
+测(id:2038494)创建了1件GM新手衣
+测(id:2038494)创建了1件GM新手腰饰
+测(id:2038494)在事件{add_item}获得了2张<span style=color:red>【ST会员体验卡】</span>(i283),剩2数量
+测(id:2038494)在事件{add_item}获得了1000个<span style=color:purple>元宝卷</span>(i199),剩1000数量
+测(id:2038494)在事件{add_item}获得了5000个<span style=color:orange>元宝</span>(i1),剩5000数量
+测(id:2038494)在事件{add_money}获得了100个金币，剩110数量
+测(id:2038494)创建了1把<span style=color:green>【企鹅之剑】</span>
+测(id:2038494)在事件{add_item}获得了1卷技能秘籍卷(i46),剩1数量
+测(id:2038494)在事件{add_money}获得了30个金币，剩140数量
+测(id:2038494)在事件{add_item}失去了1卷技能秘籍卷(i46),剩0数量
+测(id:2038494)在事件{add_item}获得了1本基本剑术(i21),剩1数量
+测(id:2038494)在事件{add_item}失去了100个<span style=color:orange>元宝</span>(i1),剩4900数量
+测(id:2038494)在事件{add_item}获得了1卷<span style=color:red>【10倍经验卷】</span>(i119),剩1数量
+测(id:2038494)在事件{add_item}失去了1卷<span style=color:red>【10倍经验卷】</span>(i119),剩0数量

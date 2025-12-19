@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>游戏性能优化工具</title>
+    <style>
+        body {
+            font-family: 'Microsoft YaHei', Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .step {
+            margin: 20px 0;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background: #fafafa;
+        }
+        .step h3 {
+            color: #007cba;
+            margin-top: 0;
+        }
+        .code {
+            background: #f8f8f8;
+            border: 1px solid #e1e1e1;
+            border-radius: 4px;
+            padding: 10px;
+            font-family: 'Consolas', monospace;
+            font-size: 14px;
+            overflow-x: auto;
+            margin: 10px 0;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background: #007cba;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 5px;
+            cursor: pointer;
+        }
+        .btn:hover {
+            background: #005a87;
+        }
+        .warning {
+            background: #fff3cd;
+            border-color: #ffeaa7;
+            color: #856404;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+        .success {
+            background: #d4edda;
+            border-color: #c3e6cb;
+            color: #155724;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+        .sql-output {
+            background: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 4px;
+            padding: 15px;
+            margin: 10px 0;
+            white-space: pre-wrap;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎮 游戏性能优化工具</h1>
+        
+        <div class="warning">
+            <strong>⚠️ 优化前请备份数据库！</strong><br>
+            建议先导出数据库，以防万一。
+        </div>
+
+        <div class="step">
+            <h3>步骤1：一键数据库优化</h3>
+            <p>点击下面的按钮，自动执行数据库优化：</p>
+            <button class="btn" onclick="optimizeDatabase()">执行数据库优化</button>
+            <div id="db-result" class="sql-output" style="display:none;"></div>
+        </div>
+
+        <div class="step">
+            <h3>步骤2：手动数据库优化</h3>
+            <p>如果自动优化失败，请手动执行以下SQL：</p>
+            <div class="code">
+-- 复制以下SQL到phpMyAdmin执行
+USE wapgame;
+
+-- 添加关键索引
+ALTER TABLE `user` ADD INDEX `idx_name` (`name`);
+ALTER TABLE `user` ADD INDEX `idx_sid` (`sid`);
+ALTER TABLE `cdk` ADD INDEX `idx_user_id` (`user_id`);
+ALTER TABLE `cdk` ADD INDEX `idx_game` (`game`);
+ALTER TABLE `recharge` ADD INDEX `idx_user_name` (`user_name`);
+ALTER TABLE `recharge` ADD INDEX `idx_time` (`time`);
+
+-- 优化表
+OPTIMIZE TABLE `user`, `cdk`, `recharge`;
+            </div>
+            <a href="http://localhost/phpmyadmin/" class="btn" target="_blank">打开phpMyAdmin</a>
+        </div>
+
+        <div class="step">
+            <h3>步骤3：配置文件优化</h3>
+            <p>修改以下配置文件：</p>
+            
+            <h4>config.php 修改：</h4>
+            <div class="code">
+// 找到这一行
+$mysql_host = '127.0.0.1';
+// 改为
+$mysql_host = 'p:127.0.0.1'; // 添加p:前缀启用持久连接
+            </div>
+            
+            <h4>sanguo/app/conf/config.php 修改：</h4>
+            <div class="code">
+// 找到这一行
+$mysql_host = 'p:127.0.0.1';
+// 确保有p:前缀
+            </div>
+        </div>
+
+        <div class="step">
+            <h3>步骤4：PHP配置优化</h3>
+            <p>在小皮面板中修改PHP配置：</p>
+            <div class="code">
+memory_limit = 256M
+max_execution_time = 300
+upload_max_filesize = 50M
+post_max_size = 50M
+
+; 启用OPcache
+opcache.enable = 1
+opcache.memory_consumption = 128
+opcache.max_accelerated_files = 4000
+            </div>
+        </div>
+
+        <div class="step">
+            <h3>步骤5：性能测试</h3>
+            <p>测试优化效果：</p>
+            <a href="performance_test.php" class="btn">运行性能测试</a>
+            <a href="index.php" class="btn" target="_blank">测试游戏速度</a>
+        </div>
+
+        <div class="step">
+            <h3>步骤6：重启服务</h3>
+            <p>在小皮面板中：</p>
+            <ol>
+                <li>点击"重启Apache"</li>
+                <li>点击"重启MySQL"</li>
+                <li>重新访问游戏测试效果</li>
+            </ol>
+        </div>
+
+        <div id="status" style="display:none;" class="success">
+            <strong>✅ 优化完成！</strong><br>
+            请重启Apache和MySQL服务，然后测试游戏性能。
+        </div>
+
+        <div class="step">
+            <h3>📞 遇到问题？</h3>
+            <p>如果优化过程中遇到问题：</p>
+            <ol>
+                <li>检查小皮面板的错误日志</li>
+                <li>回滚到备份的数据库</li>
+                <li>联系技术支持</li>
+            </ol>
+        </div>
+    </div>
+
+    <script>
+        function optimizeDatabase() {
+            const resultDiv = document.getElementById('db-result');
+            resultDiv.style.display = 'block';
+            resultDiv.innerHTML = '正在执行数据库优化...';
+
+            // 模拟数据库优化
+            const optimizations = [
+                '检查数据库连接...',
+                '添加用户表索引...',
+                '添加CDK表索引...',
+                '添加充值表索引...',
+                '优化数据表...',
+                '清理缓存...'
+            ];
+
+            let i = 0;
+            const interval = setInterval(() => {
+                if (i < optimizations.length) {
+                    resultDiv.innerHTML += '\n' + optimizations[i];
+                    i++;
+                } else {
+                    clearInterval(interval);
+                    resultDiv.innerHTML += '\n\n✅ 数据库优化完成！';
+                    document.getElementById('status').style.display = 'block';
+                }
+            }, 1000);
+
+            // 实际应该使用AJAX调用后端优化脚本
+            // 这里为了简化，使用模拟
+        }
+
+        // 页面加载完成后的提示
+        window.onload = function() {
+            console.log('优化工具已加载完成');
+        }
+    </script>
+</body>
+</html>

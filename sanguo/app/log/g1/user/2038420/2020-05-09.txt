@@ -1,0 +1,3 @@
+苟富贵(id:2038420)在事件{add_item}获得了200块<span style=color:purple>【升星石】</span>(i287),剩600数量
+苟富贵(id:2038420)在事件{add_money}获得了100000个金币，剩899998数量
+苟富贵(id:2038420)在事件{add_item}获得了100个<span style=color:orange>元宝</span>(i1),剩100数量

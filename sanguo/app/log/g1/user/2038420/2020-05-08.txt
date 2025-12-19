@@ -1,0 +1,10 @@
+苟富贵(id:2038420)在事件{add_item}获得了200块<span style=color:purple>【升星石】</span>(i287),剩200数量
+苟富贵(id:2038420)在事件{add_item}获得了10瓶<span style=color:#C6A300>【装备修复油】</span>(i73),剩10数量
+苟富贵(id:2038420)在事件{add_item}获得了200块<span style=color:purple>【升星石】</span>(i287),剩400数量
+苟富贵(id:2038420)在事件{add_item}获得了1卷<span style=color:red>【10倍经验卷】</span>(i119),剩1数量
+苟富贵(id:2038420)在事件{add_item}获得了1卷<span style=color:red>【10倍掉宝卷】</span>(i124),剩1数量
+苟富贵(id:2038420)在事件{add_money}获得了100000个金币，剩799999数量
+苟富贵(id:2038420)在事件{add_item}获得了100个<span style=color:orange>元宝</span>(i1),剩100数量
+苟富贵(id:2038420)在事件{add_item}失去了100个<span style=color:orange>元宝</span>(i1),剩0数量
+苟富贵(id:2038420)在事件{add_item}获得了1个<span style=color:orange>【宠物宝箱】</span>(i271),剩1数量
+苟富贵(id:2038420)在事件{add_item}失去了1个<span style=color:orange>【宠物宝箱】</span>(i271),剩0数量

@@ -1,0 +1,5 @@
+苟富贵(id:0)在事件{add_money}失去了2个金币，剩7数量
+冒泡啊(id:0)在事件{add_money}获得了2个金币，剩21500011数量
+冒泡啊(id:0)在事件{add_money}获得了2个金币，剩21500013数量
+冒泡啊(id:0)在事件{add_money}获得了2个金币，剩21500014数量
+<span style=color:purple>冒泡啊</span>(id:0)在事件{add_money}获得了2个金币，剩51数量

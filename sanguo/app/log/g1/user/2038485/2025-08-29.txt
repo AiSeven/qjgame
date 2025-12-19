@@ -1,0 +1,2 @@
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了1个<span style=color:orange>元宝</span>(i1),剩11003618970数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了100个金币，剩10120552062数量

@@ -1,0 +1,6 @@
+<span style=color:purple>星辰</span>(id:2038473)在事件{add_item}失去了140个<span style=color:orange>元宝</span>(i1),剩2454881数量
+<span style=color:purple>星辰</span>(id:2038473)在事件{add_item}获得了1本<span style=color:orange>【召唤神兽（战士）】</span>(i226),剩1数量
+<span style=color:purple>星辰</span>(id:2038473)在事件{add_item}失去了1本<span style=color:orange>【召唤神兽（战士）】</span>(i226),剩0数量
+<span style=color:purple>星辰</span>(id:2038473)在事件{add_item}失去了140个<span style=color:orange>元宝</span>(i1),剩2454741数量
+<span style=color:purple>星辰</span>(id:2038473)在事件{add_item}获得了1本<span style=color:orange>【武力盾】</span>(i227),剩1数量
+<span style=color:purple>星辰</span>(id:2038473)在事件{add_item}失去了1本<span style=color:orange>【武力盾】</span>(i227),剩0数量

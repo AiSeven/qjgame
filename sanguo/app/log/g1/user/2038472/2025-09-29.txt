@@ -1,0 +1,38 @@
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1本基本剑术(i21),剩2数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷技能秘籍卷(i46),剩989数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了1本基本剑术(i21),剩4数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷技能秘籍卷(i46),剩988数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了1本基本剑术(i21),剩5数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷技能秘籍卷(i46),剩987数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了1本基本剑术(i21),剩6数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷技能秘籍卷(i46),剩986数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了1本基本剑术(i21),剩7数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷技能秘籍卷(i46),剩985数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了1本基本剑术(i21),剩8数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷技能秘籍卷(i46),剩984数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了1本基本剑术(i21),剩9数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷技能秘籍卷(i46),剩983数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了1本基本剑术(i21),剩10数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷技能秘籍卷(i46),剩982数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了1本基本剑术(i21),剩11数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷技能秘籍卷(i46),剩981数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了1本基本剑术(i21),剩12数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了5个<span style=color:#D9B300>金币</span>(i51),剩5数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了5个<span style=color:#D9B300>金币</span>(i51),剩0数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了10个<span style=color:#D9B300>金币</span>(i51),剩10数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了10个<span style=color:#D9B300>金币</span>(i51),剩0数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了527个<span style=color:#D9B300>金币</span>(i51),剩527数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了527个<span style=color:#D9B300>金币</span>(i51),剩0数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1卷技能秘籍卷(i46),剩980数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了1本基本剑术(i21),剩13数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1本基本剑术(i21),剩12数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1本基本剑术(i21),剩11数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1本基本剑术(i21),剩10数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了585个<span style=color:#D9B300>金币</span>(i51),剩585数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了585个<span style=color:#D9B300>金币</span>(i51),剩0数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了1本基本剑术(i21),剩9数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了2个<span style=color:#D9B300>金币</span>(i51),剩2数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了3个<span style=color:#D9B300>金币</span>(i51),剩5数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}失去了5个<span style=color:#D9B300>金币</span>(i51),剩0数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了4个<span style=color:orange>蟾酥</span>种子(i327),剩4数量
+<span style=color:purple>梦回</span>(id:2038472)在事件{add_item}获得了5个<span style=color:purple>(极品)蒙大拿山蚤缀</span>(i470),剩5数量

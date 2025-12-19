@@ -1,0 +1,24 @@
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_money}获得了100000个金币，剩800286数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}获得了100个<span style=color:orange>元宝</span>(i1),剩71130数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_money}获得了100000个金币，剩900286数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}获得了100个<span style=color:orange>元宝</span>(i1),剩71230数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_money}获得了100000个金币，剩1000286数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}获得了100个<span style=color:orange>元宝</span>(i1),剩71330数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}获得了2000个<span style=color:orange>金券</span>(i200),剩2000数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}失去了1000个<span style=color:orange>金券</span>(i200),剩1000数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}获得了1个<img src=res/img/ch/jp18.gif>(i536),剩1数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}失去了1000个<span style=color:orange>金券</span>(i200),剩0数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}获得了1个<img src=res/img/ch/jp16.gif>(i534),剩1数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}失去了1个<img src=res/img/ch/jp18.gif>(i536),剩0数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}失去了1个<img src=res/img/ch/jp16.gif>(i534),剩0数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}获得了1000个<span style=color:orange>金券</span>(i200),剩1000数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}失去了1000个<span style=color:orange>金券</span>(i200),剩0数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}获得了1个<img src=res/img/ch/jp16.gif>(i534),剩1数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}失去了1个<img src=res/img/ch/jp16.gif>(i534),剩0数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}获得了2000个<span style=color:orange>金券</span>(i200),剩2000数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}失去了1000个<span style=color:orange>金券</span>(i200),剩1000数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}获得了1个<img src=res/img/ch/jp2.gif>(i520),剩1数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}失去了1个<img src=res/img/ch/jp2.gif>(i520),剩0数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}失去了1000个<span style=color:orange>金券</span>(i200),剩0数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}获得了1个<img src=res/img/ch/jp2.gif>(i520),剩1数量
+<span style=color:purple>冒泡啊</span>(id:2038392)在事件{add_item}失去了1个<img src=res/img/ch/jp2.gif>(i520),剩0数量

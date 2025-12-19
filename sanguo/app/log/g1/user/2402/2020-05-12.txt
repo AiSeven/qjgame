@@ -1,0 +1,4 @@
+<span style=color:green>在</span>(id:2402)在事件{add_money}获得了100000个金币，剩18535442数量
+<span style=color:green>在</span>(id:2402)在事件{add_item}获得了100个<span style=color:orange>元宝</span>(i1),剩51197817.6数量
+<span style=color:green>在</span>(id:2402)在事件{add_money}获得了100000个金币，剩18635442数量
+<span style=color:green>在</span>(id:2402)在事件{add_item}获得了100个<span style=color:orange>元宝</span>(i1),剩51197917.6数量

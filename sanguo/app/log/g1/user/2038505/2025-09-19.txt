@@ -1,0 +1,89 @@
+魔道(id:2038505)创建了1件新手布衣（男）
+魔道(id:2038505)创建了1把木剑
+魔道(id:2038505)创建了1把GM新手剑
+魔道(id:2038505)创建了1双GM新手鞋
+魔道(id:2038505)创建了1双GM新手套
+魔道(id:2038505)创建了1双 GM新手套
+魔道(id:2038505)创建了1件GM新手衣
+魔道(id:2038505)创建了1件GM新手腰饰
+魔道(id:2038505)在事件{add_item}获得了2张<span style=color:red>【ST会员体验卡】</span>(i283),剩2数量
+魔道(id:2038505)在事件{add_item}获得了1000个<span style=color:purple>元宝卷</span>(i199),剩1000数量
+魔道(id:2038505)在事件{add_item}获得了1卷<span style=color:green>【会员副本卷】</span>(i279),剩1数量
+魔道(id:2038505)在事件{add_money}获得了500个金币，剩510数量
+魔道(id:2038505)在事件{add_item}失去了1张<span style=color:red>【ST会员体验卡】</span>(i283),剩1数量
+<span style=color:red>魔道</span>(id:2038505)在事件{add_item}获得了1卷<span style=color:red>【2倍经验卷】</span>(i115),剩1数量
+<span style=color:red>魔道</span>(id:2038505)在事件{add_item}获得了1卷<span style=color:red>【2倍掉宝卷】</span>(i120),剩1数量
+<span style=color:red>魔道</span>(id:2038505)在事件{add_item}获得了1个<span style=color:orange>【补天（一）】</span>(i170),剩1数量
+<span style=color:red>魔道</span>(id:2038505)在事件{add_item}获得了1块<span style=color:green>【强化石（一）】</span>(i185),剩1数量
+<span style=color:red>魔道</span>(id:2038505)在事件{add_item}获得了1000个<span style=color:#D9B300>金币</span>(i51),剩1000数量
+<span style=color:red>魔道</span>(id:2038505)在事件{add_item}获得了1个<span style=color:green>1W 经验卷</span>(i201),剩1数量
+<span style=color:red>魔道</span>(id:2038505)在事件{add_item}失去了1000个<span style=color:#D9B300>金币</span>(i51),剩0数量
+<span style=color:red>魔道</span>(id:2038505)在事件{add_item}获得了3个<span style=color:#D9B300>金币</span>(i51),剩3数量
+<span style=color:red>魔道</span>(id:2038505)在事件{add_item}获得了5个<span style=color:#D9B300>金币</span>(i51),剩8数量
+<span style=color:red>魔道</span>(id:2038505)创建了1枚牛角戒指（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚牛角戒指（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚蓝色水晶戒指（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚蓝色水晶戒指（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚水晶魔戒（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚水晶魔戒（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚六绝星环（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚六绝星环（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚古铜戒指（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚古铜戒指（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚指环（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚指环（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1只皮制手套（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1只皮制手套（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1只铁手镯（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1只铁手镯（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1只钢手镯（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1只钢手镯（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1只小手镯（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1只银手镯（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1只银手镯（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1条金项链
+<span style=color:red>魔道</span>(id:2038505)创建了1条传统项链
+<span style=color:red>魔道</span>(id:2038505)创建了1件布衣（男）
+<span style=color:red>魔道</span>(id:2038505)创建了1件布衣（女）
+<span style=color:red>魔道</span>(id:2038505)创建了1把木剑
+<span style=color:red>魔道</span>(id:2038505)创建了1把乌木剑
+<span style=color:red>魔道</span>(id:2038505)创建了1把青铜剑
+<span style=color:red>魔道</span>(id:2038505)创建了1把铁剑
+<span style=color:red>魔道</span>(id:2038505)创建了1把匕首
+<span style=color:red>魔道</span>(id:2038505)创建了1双草鞋
+<span style=color:red>魔道</span>(id:2038505)在事件{add_item}获得了23个<span style=color:#D9B300>金币</span>(i51),剩31数量
+<span style=color:red>魔道</span>(id:2038505)在事件{add_item}失去了31个<span style=color:#D9B300>金币</span>(i51),剩0数量
+<span style=color:red>魔道</span>(id:2038505)在事件{add_item}获得了5个<span style=color:#D9B300>金币</span>(i51),剩5数量
+<span style=color:red>魔道</span>(id:2038505)创建了1枚牛角戒指（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚牛角戒指（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚蓝色水晶戒指（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚蓝色水晶戒指（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚水晶魔戒（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚水晶魔戒（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚六绝星环（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚六绝星环（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚古铜戒指（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚古铜戒指（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚指环（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1枚指环（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1只皮制手套（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1只皮制手套（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1只铁手镯（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1只铁手镯（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1只钢手镯（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1只钢手镯（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1只小手镯（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1只银手镯（左）
+<span style=color:red>魔道</span>(id:2038505)创建了1只银手镯（右）
+<span style=color:red>魔道</span>(id:2038505)创建了1条金项链
+<span style=color:red>魔道</span>(id:2038505)创建了1条传统项链
+<span style=color:red>魔道</span>(id:2038505)创建了1件布衣（男）
+<span style=color:red>魔道</span>(id:2038505)创建了1件布衣（女）
+<span style=color:red>魔道</span>(id:2038505)创建了1把木剑
+<span style=color:red>魔道</span>(id:2038505)创建了1把乌木剑
+<span style=color:red>魔道</span>(id:2038505)创建了1把青铜剑
+<span style=color:red>魔道</span>(id:2038505)创建了1把铁剑
+<span style=color:red>魔道</span>(id:2038505)创建了1把匕首
+<span style=color:red>魔道</span>(id:2038505)创建了1双草鞋
+<span style=color:red>魔道</span>(id:2038505)在事件{add_item}获得了23个<span style=color:#D9B300>金币</span>(i51),剩28数量
+<span style=color:red>魔道</span>(id:2038505)在事件{add_item}失去了28个<span style=color:#D9B300>金币</span>(i51),剩0数量

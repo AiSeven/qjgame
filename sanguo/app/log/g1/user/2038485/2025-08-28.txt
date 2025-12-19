@@ -1,0 +1,28 @@
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了1个<span style=color:orange>元宝</span>(i1),剩11003613965数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了100个金币，剩10120508653数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了5000个<span style=color:orange>元宝</span>(i1),剩11003618965数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了100个金币，剩10120508753数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了14456个<span style=color:#D9B300>金币</span>(i51),剩14456数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}失去了14456个<span style=color:#D9B300>金币</span>(i51),剩0数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了13886个<span style=color:#D9B300>金币</span>(i51),剩13886数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}失去了13886个<span style=color:#D9B300>金币</span>(i51),剩0数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了14456个<span style=color:#D9B300>金币</span>(i51),剩14456数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}失去了14456个<span style=color:#D9B300>金币</span>(i51),剩0数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了18卷技能秘籍卷(i46),剩189数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了20个金币，剩10120551571数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了10卷技能秘籍卷(i46),剩199数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了20个金币，剩10120551591数量
+<span style=color:purple>北北辰</span>(id:2038485)创建了1把<span style=color:green>【企鹅之剑】</span>
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了10卷技能秘籍卷(i46),剩209数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了20个金币，剩10120551611数量
+<span style=color:purple>北北辰</span>(id:2038485)创建了1把<span style=color:green>【企鹅之剑】</span>
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了1卷技能秘籍卷(i46),剩210数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了30个金币，剩10120551642数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了1个<span style=color:orange>元宝</span>(i1),剩11003618966数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了20个金币，剩10120551662数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了1个<span style=color:orange>元宝</span>(i1),剩11003618967数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了100个金币，剩10120551762数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了1个<span style=color:orange>元宝</span>(i1),剩11003618968数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了100个金币，剩10120551862数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_item}获得了1个<span style=color:orange>元宝</span>(i1),剩11003618969数量
+<span style=color:purple>北北辰</span>(id:2038485)在事件{add_money}获得了100个金币，剩10120551962数量

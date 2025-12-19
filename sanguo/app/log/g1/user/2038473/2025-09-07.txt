@@ -1,0 +1,1 @@
+<span style=color:purple>星辰</span>(id:2038473)在事件{add_item}获得了1个<span style=color:green>困惑殿堂传送卷</span>(i266),剩1数量
